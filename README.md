@@ -28,6 +28,9 @@ To run tests in the Cypress Test Runner:
 3. When tests pass, switch testing type to Component
 4. Click on Component Testing then Quiz.cy.jsx file to run tests.
 
+## Walkthrough 
+[https://drive.google.com/file/d/1-JjfQpFvRa2t-ro14g0wal01dpsC-VbZ/view][Walkthrough]
+
 ## Questions
 Send me a message on Github
 
