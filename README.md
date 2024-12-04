@@ -29,7 +29,7 @@ To run tests in the Cypress Test Runner:
 4. Click on Component Testing then Quiz.cy.jsx file to run tests.
 
 ## Walkthrough 
-[https://drive.google.com/file/d/1-JjfQpFvRa2t-ro14g0wal01dpsC-VbZ/view][Walkthrough]
+[Walkthrough](https://drive.google.com/file/d/1-JjfQpFvRa2t-ro14g0wal01dpsC-VbZ/view)
 
 ## Questions
 Send me a message on Github
