@@ -1,4 +1,4 @@
-# Testing Quiz App - Testing Process
+# Testing Quiz App
 
 ## Description
 
